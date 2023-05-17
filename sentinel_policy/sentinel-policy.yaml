@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: sentinel-policy
+  name: sentinel
   namespace : platform-security
 spec:
   containers:

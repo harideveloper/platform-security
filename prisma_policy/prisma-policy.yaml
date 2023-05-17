@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: org-policy
+  name: prisma-defender
   namespace : platform-security
 spec:
   containers:
